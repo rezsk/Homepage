@@ -1,0 +1,18 @@
+$enable-responsive-font-sizes: true;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.name {
+  font-family: 'Acme', sans-serif;
+}
+
+.description {
+  font-family: 'Dancing Script', cursive;
+}
+
+.fa-github {
+  opacity: 0;
+}
+
+.fa-envelope-open-text {
+  opacity: 0;
+}
