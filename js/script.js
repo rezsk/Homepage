@@ -19,6 +19,13 @@ var typed_name = new Typed('.name', {
                             targets: '.fa-envelope-open-text',
                             opacity: 1,
                             duration: 1000,
+                            complete: function() {
+                                anime({
+                                    targets: '.fa-telegram',
+                                    opacity: 1,
+                                    duration: 1000
+                                });
+                            }
                         });
                     }
                 });
