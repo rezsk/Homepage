@@ -7061,3 +7061,10 @@ a.text-dark:hover, a.text-dark:focus {
 
 .fa-envelope-open-text {
   opacity: 0; }
+
+a {
+  color: white; }
+
+a:hover {
+  text-decoration: none;
+  color: white; }
