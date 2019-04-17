@@ -7056,7 +7056,7 @@ a.text-dark:hover, a.text-dark:focus {
 .description {
   font-family: 'Dancing Script', cursive; }
 
-.fa-github {
+.fa-github, .fa-telegram {
   opacity: 0; }
 
 .fa-envelope-open-text {
