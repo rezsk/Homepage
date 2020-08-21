@@ -7206,6 +7206,15 @@ a:hover {
   max-width: 200px;
   margin: -128px auto auto; }
 
-main .card {
-  margin-top: 128px;
+main.card {
+  margin-top: 200px;
   min-height: 300px; }
+
+section#contactInfo {
+  font-family: 'Space Mono', monospace; }
+
+ul {
+  list-style-type: none; }
+
+main.rounded-lg {
+  border-radius: 1.75rem !important; }
