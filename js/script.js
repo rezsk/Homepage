@@ -28,23 +28,13 @@ function typeName() {
     });
 }
 
-function showAvatar() {
-    anime({
-        delay: 1000,
-        targets: 'main.card img',
-        duration: 1000,
-        opacity: 1,
-        complete: () => typeName()
-    });
-}
-
 function fadeInMainCard() {
     anime({
         delay: 1000,
         targets: 'main.card',
         duration: 1500,
         opacity: 1,
-        complete: () => showAvatar()
+        complete: () => typeName()
     });
 }
 

@@ -33,9 +33,6 @@ a:hover {
 
 main.card {
   opacity: 0;
-  img {
-    opacity: 0;
-  }
   margin-top: 200px;
   min-height: 300px;
 }
@@ -50,5 +47,5 @@ ul {
 }
 
 main.rounded-lg {
-  border-radius: 1.75rem!important;
+  border-radius: 1.25rem!important;
 }

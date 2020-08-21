@@ -7210,8 +7210,6 @@ main.card {
   opacity: 0;
   margin-top: 200px;
   min-height: 300px; }
-  main.card img {
-    opacity: 0; }
 
 section#contactInfo {
   font-family: 'Space Mono', monospace;
@@ -7221,4 +7219,4 @@ ul {
   list-style-type: none; }
 
 main.rounded-lg {
-  border-radius: 1.75rem !important; }
+  border-radius: 1.25rem !important; }
