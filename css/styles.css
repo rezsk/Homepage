@@ -7207,11 +7207,15 @@ a:hover {
   margin: -128px auto auto; }
 
 main.card {
+  opacity: 0;
   margin-top: 200px;
   min-height: 300px; }
+  main.card img {
+    opacity: 0; }
 
 section#contactInfo {
-  font-family: 'Space Mono', monospace; }
+  font-family: 'Space Mono', monospace;
+  opacity: 0; }
 
 ul {
   list-style-type: none; }

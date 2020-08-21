@@ -32,12 +32,17 @@ a:hover {
 }
 
 main.card {
+  opacity: 0;
+  img {
+    opacity: 0;
+  }
   margin-top: 200px;
   min-height: 300px;
 }
 
 section#contactInfo {
   font-family: 'Space Mono', monospace;
+  opacity: 0;
 }
 
 ul {
