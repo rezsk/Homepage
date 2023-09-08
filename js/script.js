@@ -38,5 +38,5 @@ function fadeInMainCard() {
     });
 }
 
-fadeInMainCard();
+//fadeInMainCard();
 

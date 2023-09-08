@@ -6,14 +6,6 @@
   font-family: 'Dancing Script', cursive;
 }
 
-.fa-github, .fa-telegram {
-  opacity: 0;
-}
-
-.fa-envelope-open-text {
-  opacity: 0;
-}
-
 a {
   text-decoration: none;
   color: white;
@@ -29,14 +21,12 @@ a:hover {
 }
 
 main.card {
-  opacity: 0;
   margin-top: 200px;
   min-height: 300px;
 }
 
 section#contactInfo {
   font-family: 'Space Mono', monospace;
-  opacity: 0;
 }
 
 ul {
